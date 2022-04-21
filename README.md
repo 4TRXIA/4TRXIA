@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on things in the future
 - 📫 How to reach me ... [pending]
+- (⌐■_■) Personal site is in progress...
 
 <!---
 4TRXIA/4TRXIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
