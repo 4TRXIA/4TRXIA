@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4TRXIA
-- 👀 I’m interested in infosec, linux and more
-- 🌱 I’m currently learning python and c
+- 👀 I’m interested in cybersec, linux, FOSS and more...
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on things in the future
 - 📫 How to reach me ... [pending]
 - (⌐■_■) Personal site is in progress...
